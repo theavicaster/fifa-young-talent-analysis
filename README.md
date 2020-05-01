@@ -1,7 +1,7 @@
 # FIFA Young Talent Analysis
 
 
-**FIFA player ratings are influenced by a big number of factors. Insights into these factors and prediction of the overall raing can be seen as a regression task. This analysis dives head first into this challenge through Jupyter Notebooks, drawing statistical inferences from data in an end-to-end manner, with pipelines for exploratory data analysis, data preparation and cleaning, and regression modeling.**
+**FIFA player ratings are influenced by a big number of factors. Insights into these factors and prediction of the overall rating can be seen as a regression task. This analysis dives head first into this challenge through Jupyter Notebooks, drawing statistical inferences from data in an end-to-end manner, with pipelines for exploratory data analysis, data preparation and cleaning, and regression modeling.**
 
 ---
 
