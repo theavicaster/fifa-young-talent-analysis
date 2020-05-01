@@ -8,7 +8,7 @@
 ### Dataset
 
 
-Obtained through [Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset), which contains over 100 features for around 18K players over 6 years.
+Obtained through [Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset), scraped from official servers, which contains over 100 features for around 18K players over 6 years.
 
 ---
 
