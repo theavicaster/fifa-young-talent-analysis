@@ -50,3 +50,30 @@ Obtained through [Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complet
 * Categorical Features
   * Feature Engineering 
   * Interaction Features 
+  
+  
+* ## Regression Modeling
+
+### Frameworks used -
+
+* Scikit-Learn
+* XGBoost
+
+### Components -
+
+* Linear Approaches
+  * Ordinary Least Squares
+  * Regularized Linear Regression
+  * Support Vector Regression
+  * Bagging SVR and Lasso
+* Tree Based Approaches
+  * Decision Tree
+  * Random Forest
+  * Extremely Randomized Trees
+* Boosting Approaches
+  * Adaboost 
+  * Extreme Gradient Boosting
+*  Stacking Ensemble
+  * Correlation of Predictions
+  * XGBoost Metalearner
+  * Error Analysis
