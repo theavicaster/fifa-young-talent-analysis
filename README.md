@@ -1,8 +1,16 @@
 # FIFA Young Talent Analysis
 
-* ## Dataset
+
+**FIFA player ratings are influenced by a big number of factors. Insights into these factors and prediction of the overall raing can be seen as a regression task. This analysis dives head first into this challenge through Jupyter Notebooks, drawing statistical inferences from data in an end-to-end manner, with pipelines for exploratory data analysis, data preparation and cleaning, and regression modeling.**
+
+---
+
+### Dataset
+
 
 Obtained through [Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset), which contains over 100 features for around 18K players over 6 years.
+
+---
 
 * ## Exploratory Data Analysis
 
@@ -28,6 +36,9 @@ Obtained through [Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complet
   * Ordinary Least Square coefficients
   * Adjusted R-2 and tests of Statistical Significance
 
+
+---
+
 * ## Data Preparation
 
 ### Frameworks used -
@@ -51,6 +62,7 @@ Obtained through [Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complet
   * Feature Engineering 
   * Interaction Features 
   
+---  
   
 * ## Regression Modeling
 
