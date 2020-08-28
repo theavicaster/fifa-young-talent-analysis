@@ -15,6 +15,7 @@ Obtained through [Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complet
 #### Please use below links as notebooks might not render on Github.
 
 * ## [Exploratory Data Analysis Notebook](https://nbviewer.jupyter.org/github/theavicaster/fifa-young-talent-analysis/blob/master/notebooks/EDAfifa20.ipynb)
+![Plots](https://github.com/theavicaster/fifa-young-talent-analysis/blob/master/figures/comparisons.png)
 
 ### Frameworks used -
 
@@ -42,6 +43,7 @@ Obtained through [Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complet
 ---
 
 * ## [Data Preparation Notebook](https://nbviewer.jupyter.org/github/theavicaster/fifa-young-talent-analysis/blob/master/notebooks/DataPreparationAttackingRegressionFIFA20.ipynb)
+![Correlations](https://github.com/theavicaster/fifa-young-talent-analysis/blob/master/figures/correlations.png)
 
 ### Frameworks used -
 
@@ -67,6 +69,7 @@ Obtained through [Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complet
 ---  
   
 * ## [Regression Modeling Notebook](https://nbviewer.jupyter.org/github/theavicaster/fifa-young-talent-analysis/blob/master/notebooks/AdvancedRegressionFIFA20.ipynb)
+![Results](https://github.com/theavicaster/fifa-young-talent-analysis/blob/master/figures/results.png)
 
 ### Frameworks used -
 
