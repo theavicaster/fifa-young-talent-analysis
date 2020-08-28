@@ -70,6 +70,7 @@ Obtained through [Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complet
   
 * ## [Regression Modeling Notebook](https://nbviewer.jupyter.org/github/theavicaster/fifa-young-talent-analysis/blob/master/notebooks/AdvancedRegressionFIFA20.ipynb)
 ![Results](https://github.com/theavicaster/fifa-young-talent-analysis/blob/master/figures/results.png)
+![Results](https://github.com/theavicaster/fifa-young-talent-analysis/blob/master/figures/importances.png)
 
 ### Frameworks used -
 
